@@ -1,0 +1,24 @@
+[submodule "WebServer/civetweb"]
+	path = WebServer/civetweb
+	url = https://github.com/civetweb/civetweb
+[submodule "WebServer/WebSocket_DIPSwitches"]
+	path = WebServer/WebSocket_DIPSwitches
+	url = https://github.com/NetBurner/WebSocket_DIPSwitches
+[submodule "WebServer/raspberry-pi-web-server"]
+	path = WebServer/raspberry-pi-web-server
+	url = https://github.com/sean-hill/raspberry-pi-web-server
+[submodule "WebSocket/WebSocketServer"]
+	path = WebSocket/WebSocketServer
+	url = https://github.com/agrafix/WebSocketServer
+[submodule "WebSocket/python-websocket-server"]
+	path = WebSocket/python-websocket-server
+	url = https://github.com/kloddant/python-websocket-server
+[submodule "lightsd"]
+	path = lightsd
+	url = https://github.com/lopter/lightsd
+[submodule "message_flow"]
+	path = message_flow
+	url = https://github.com/cesium-ml/message_flow
+[submodule "xsonrpc"]
+	path = xsonrpc
+	url = https://github.com/erijo/xsonrpc
